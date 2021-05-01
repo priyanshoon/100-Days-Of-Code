@@ -6,4 +6,4 @@
 2. Advance
     1. HTML Completed
 <br>
-[Resources](https://www.w3schools.com/html/)
+[Resources](https://github.com/codewithpriyansh/100-Days-Of-Code/blob/main/Day%201/resources.txt)
