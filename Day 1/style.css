@@ -1,0 +1,57 @@
+*{
+    /* margin: 0; */
+    margin-top: 10;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+/* Comments in css */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+body {
+  background: #ffefba; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ffffff,
+    #ffefba
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #ffffff,
+    #ffefba
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: "Roboto", sans-serif;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+table {
+    font-family: "Roboto", sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+  
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+tr:hover{
+    background-color: #dddfff;
+}
+.container{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 1cm;
+}
+.formcon{
+    display: flex;
+    justify-content: center;
+}
