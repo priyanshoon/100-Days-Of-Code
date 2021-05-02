@@ -27,19 +27,47 @@
 // var age = 19;
 // console.log((age >= 18) ? "You can vote" : "you can't vote")
 
-// Switch Statements 
-var area = 'circle';
+// Switch Statements
+// var area = 'circle';
 
-switch (area) {
-    case 'rectangle':
-        console.log('rectangle')
-        break;
-    case 'circle':
-        console.log('circle')
-        break;
-    case 'triangle':
-        console.log('triangle')
-        break;
-    default:
-        break;
-}
+// switch (area) {
+//     case 'rectangle':
+//         console.log('rectangle')
+//         break;
+//     case 'circle':
+//         console.log('circle')
+//         break;
+//     case 'triangle':
+//         console.log('triangle')
+//         break;
+//     default:
+//         console.log("Invalid Input")
+//         break;
+// }
+
+// While Loops
+
+// var num = 20;
+// while (num <= 10) {
+//     console.log(num);
+//     num++
+// }
+
+// Do While Loop
+// var num = 20
+
+// do {
+//     console.log(num)
+//     num++
+// } while (num <= 10)
+
+// For Loops
+
+// var num = 11;
+// for (var i = 1; i <= 10; i++) {
+//   console.log(num * i);
+// }
+
+
+// Function in javascript
+

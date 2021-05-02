@@ -9,10 +9,11 @@
 ## Day 2
 1. Learned
     1. JavaScript
-         1. operators
-         2. expression
-         3. condition statement
-         4. loops
+         1. Operators
+         2. Expression
+         3. Condition Statement
+         4. Loops
+         5. Functions in JavaScript
 
 
 [Resources](https://github.com/codewithpriyansh/100-Days-Of-Code/blob/main/Day%202/resources.txt)
