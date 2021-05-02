@@ -14,6 +14,8 @@
          3. Condition Statement
          4. Loops
          5. Functions in JavaScript
+    2. Modern JavaScript
+         1. var, let, const
 
 
 [Resources](https://github.com/codewithpriyansh/100-Days-Of-Code/blob/main/Day%202/resources.txt)
