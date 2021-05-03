@@ -30,6 +30,7 @@
         6. Searching and filter of Arrays
         7. Sorting the Arrays
         8. CURD Operations in Arrays
+        9. map(), reduce() and filter()
 
 
 [Resources](https://github.com/codewithpriyansh/100-Days-Of-Code/blob/main/Day%202/resources.txt)

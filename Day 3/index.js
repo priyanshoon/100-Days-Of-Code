@@ -72,5 +72,30 @@
 // number.unshift(-7, -6, -5, -4, -3, -2, -1, 0)
 // console.log(number)
 
+// Pop in JavaScript
+
+// const dj = ['DJ Shashi', 'DJ Ramesh', 'DJ Rakesh', 'DJ Krish']
+
+// dj.pop()
+// console.log(dj)
+
+// Using shift method to remove the elements from front
+
+// const dj = ['DJ Shashi', 'DJ Ramesh', 'DJ Rakesh', 'DJ Krish']
+
+// dj.shift()
+// console.log(dj)
+
+// Splice Method In JavaScript
+
+// const month = ['Jan', 'Feb', 'Mar', 'Api', 'May'];
+
+// const newMonth = month.splice(4, 0, 'Dec')
+// console.log(newMonth)
+// console.log(month)
+
+// const updateMonth = month.splice(2, 1)
+
+// console.log(month)
 
 
