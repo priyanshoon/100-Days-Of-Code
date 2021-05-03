@@ -17,5 +17,19 @@
     2. Modern JavaScript
          1. var, let, const
 
+[Resources](https://github.com/codewithpriyansh/100-Days-Of-Code/blob/main/Day%202/resources.txt)
+
+## Day 3
+1. Learned
+    1. JavaScript
+        1. Fat Arrow Function
+        2. For in Loop
+        3. For of Loop
+        4. For Each Loop
+        5. Arrays in JavaScript
+        6. Searching and filter of Arrays
+        7. Sorting the Arrays
+        8. CURD Operations in Arrays
+
 
 [Resources](https://github.com/codewithpriyansh/100-Days-Of-Code/blob/main/Day%202/resources.txt)
