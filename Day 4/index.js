@@ -34,17 +34,34 @@
 //     return elements * 2
 // }).filter((elements) => {
 //     return elements >= 10
+// }).reduce((accumulator, elements) => {
+//     return accumulator+elements
 // })
 
 // console.log(newArr);
 
 // Reduce method in JavaScript
-// flatten array means to convert the 3d or 2d array into a single dimensional array
+// fatten array means to convert the 3d or 2d array into a single dimensional array
 
-let arr = [1, 2, 3, 4];
+// let arr = [1, 2, 3, 4];
 
-let sum = arr.reduce((accumulator, elements, index, array) => {
-    return accumulator + elements
-});
+// let sum = arr.reduce((accumulator, elements, index, array) => {
+//     debugger
+//     return accumulator + elements
+// });
 
-console.log(sum)
+// console.log(sum)
+
+// How to fatten an array
+
+let arr = [
+  [1, 2],
+  [3, 4],
+  [5, 6],
+];
+
+let flatArray = arr.reduce((accumulator, elements) => {
+    return accumulator.concat(elements)   
+})
+
+console.log(flatArray)
