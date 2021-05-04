@@ -61,7 +61,7 @@
 // ];
 
 // let flatArray = arr.reduce((accumulator, elements) => {
-//     return accumulator.concat(elements)   
+//     return accumulator.concat(elements)
 // })
 
 // console.log(flatArray)
@@ -70,5 +70,19 @@
 
 // Strings can created as premitives, from string literals, or as objects, using the String() constructor
 
-let ytName = new String("CodeWithPriyansh");
-console.log(ytName)
+// let ytName = new String("CodeWithPriyansh");
+// console.log(ytName)
+
+// Date and Time in JavaScript
+
+// There are 4 ways to create Days objects
+
+// new Date()
+// new Date(year, month, day, hours, minutes, seconds, milliseconds)
+// It take 7 arguments
+// new Date(milliseconds)
+// We cannot avoid month section
+// new Date(date string)
+
+let currDate = new Date();
+console.log(currDate);
