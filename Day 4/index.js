@@ -18,7 +18,6 @@
 
 // console.log(newArray)
 
-
 // let number = [25, 36, 49, 64, 81]
 
 // let sqrtOfNumber = number.map((elements) => {
@@ -29,13 +28,23 @@
 
 // Chaining Style in Javascript
 
-let arr = [2, 3, 5, 8, 9]
+// let arr = [2, 3, 5, 8, 9]
 
-let newArr = arr.map((elements) => {
-    return elements * 2
-}).filter((elements) => {
-    return elements >= 10
-})
+// let newArr = arr.map((elements) => {
+//     return elements * 2
+// }).filter((elements) => {
+//     return elements >= 10
+// })
 
-console.log(newArr);
+// console.log(newArr);
 
+// Reduce method in JavaScript
+// flatten array means to convert the 3d or 2d array into a single dimensional array
+
+let arr = [1, 2, 3, 4];
+
+let sum = arr.reduce((accumulator, elements, index, array) => {
+    return accumulator + elements
+});
+
+console.log(sum)
