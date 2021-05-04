@@ -54,14 +54,21 @@
 
 // How to fatten an array
 
-let arr = [
-  [1, 2],
-  [3, 4],
-  [5, 6],
-];
+// let arr = [
+//   [1, 2],
+//   [3, 4],
+//   [5, 6],
+// ];
 
-let flatArray = arr.reduce((accumulator, elements) => {
-    return accumulator.concat(elements)   
-})
+// let flatArray = arr.reduce((accumulator, elements) => {
+//     return accumulator.concat(elements)   
+// })
 
-console.log(flatArray)
+// console.log(flatArray)
+
+// String in JavaScript
+
+// Strings can created as premitives, from string literals, or as objects, using the String() constructor
+
+let ytName = new String("CodeWithPriyansh");
+console.log(ytName)
