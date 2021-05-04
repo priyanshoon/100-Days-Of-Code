@@ -34,3 +34,13 @@
 
 
 [Resources](https://github.com/codewithpriyansh/100-Days-Of-Code/blob/main/Day%202/resources.txt)
+
+## Day 4
+1. Learned
+    1. JavaScript
+        1. map(), filter() and reduce() implementation
+        2. Chaining style in JavaScript
+        3. Fatten Arrays
+        4. Strings in JavaScript
+
+[Resources](https://github.com/codewithpriyansh/100-Days-Of-Code/blob/main/Day%202/resources.txt)
