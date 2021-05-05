@@ -84,5 +84,35 @@
 // We cannot avoid month section
 // new Date(date string)
 
-let currDate = new Date();
-console.log(currDate);
+// let currDate = new Date().toLocaleString();
+// let currDate1 = new Date().toString();
+// console.log(currDate);
+// console.log(currDate1);
+
+// Date.now()
+// Returns the numeric values corresponding to the current time-the number of milliseconds elapsed since January 1, 1970 00:00:00 UTC
+
+// console.log(Date.now());
+
+// January is 0 and December is 11
+
+// let d = new Date(2021, 4, 4, 22, 03, 0);
+// console.log(d.toLocaleString())
+
+// Month is compulsory
+
+// new Date(dateString)
+// new Date(dateString) creates a new date object from a string
+
+// var d = new Date("May 4, 2021 10:10:00")
+// console.log(d.toLocaleString());
+
+// How to get individual date
+
+const currDate = new Date()
+console.log(currDate.getDay())
+console.log(currDate.getFullYear())
+console.log(currDate.getMonth())
+console.log(currDate.getSeconds())
+console.log(currDate.getHours())
+
