@@ -44,3 +44,13 @@
         4. Strings in JavaScript
 
 [Resources](https://github.com/codewithpriyansh/100-Days-Of-Code/blob/main/Day%202/resources.txt)
+
+## Day 5
+1. Learned
+    1. JavaScript
+        1. Time in JavaScript
+        2. Math in JavaScript
+    2. Financial Knowledge
+        1. Crypto Currency
+
+[Resources](https://github.com/codewithpriyansh/100-Days-Of-Code/blob/main/Day%202/resources.txt)
