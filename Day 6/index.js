@@ -6,3 +6,7 @@
 
 // Document is the child of window object 
 
+// Events in JavaScript
+
+
+
