@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p class="para">Please like the video</p>
+    <p class="para">Please share the video</p>
+    <p>Don't forget to subscribe my channel</p>
+    <h1 id="heading">Changed the content of H1</h1>
+
+    <button onclick="changeContent()">Change</button>
+
+    <script>
+        const changeContent = () => {
+            document.getElementById("heading").innerHTML = "H1 is Changed"
+        }
+    </script>
+</body>
+</html>
