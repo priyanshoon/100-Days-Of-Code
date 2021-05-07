@@ -44,3 +44,44 @@
 
 // console.log(this)
 
+// newObject = {
+//     myName: {
+//         realName: "Priyanshu Prasad Gupta",
+//         nickName: "Priyanshupg"
+//     },
+//     myAge: 17,
+//     getData() {
+//         console.log(`My name is ${this.myName.realName} and insta id is ${this.myName.nickName} and my age is ${this.myAge}`)
+//     }
+// }
+
+// newObject.getData()
+
+// Array Destructuring 
+
+// const myBiodata = ["Priyanshu", "Rounak", "Krish"]
+
+// let [first, second, third] = myBiodata
+// console.log(first)
+
+// Object Destructuring
+
+// const data = {
+//     myName: "Priyanshu Prasad Gupta",
+//     myAge: 17,
+//     iAm: "Programmer"
+// }
+
+// let {myName, myAge, iAm} = data
+
+// console.log(iAm)
+
+// Objects Properties
+// no need to write key and value both are same 
+
+// Speard Operators
+
+const color = ["Red", "Blue", "Green", "Yellow", "Black", "Pink"]
+
+const myColor = [...color, "Brown", "Munde"]
+console.log(myColor)
