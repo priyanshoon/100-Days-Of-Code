@@ -55,7 +55,7 @@
 //     }
 // }
 
-// newObject.getData()
+newObject.getData()
 
 // Array Destructuring 
 
