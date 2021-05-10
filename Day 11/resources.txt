@@ -3,3 +3,4 @@ Roadmap to Start Data Structure and Algorithms (DSA)
 https://hackernoon.com/learning-roadmap-for-data-structures-and-algorithms-cu2032qh
 https://medium.com/the-innovation/road-map-to-learn-data-structures-algorithms-7960035fc4dc
 https://www.youtube.com/watch?v=Zlx7gmt3lBU
+https://blog.codingblocks.com/2019/setting-up-a-c-competitive-programming-environment/
