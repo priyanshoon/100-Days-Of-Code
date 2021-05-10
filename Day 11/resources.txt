@@ -4,3 +4,4 @@ https://hackernoon.com/learning-roadmap-for-data-structures-and-algorithms-cu203
 https://medium.com/the-innovation/road-map-to-learn-data-structures-algorithms-7960035fc4dc
 https://www.youtube.com/watch?v=Zlx7gmt3lBU
 https://blog.codingblocks.com/2019/setting-up-a-c-competitive-programming-environment/
+https://www.tutorialspoint.com/cplusplus/index.htm
