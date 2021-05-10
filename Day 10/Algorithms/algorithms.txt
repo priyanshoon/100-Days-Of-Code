@@ -1,0 +1,5 @@
+Algorithms :-
+
+Algorithms ek sets of instruction hota hai, jaise hum koi kaam karte hai tho kuch steps leke karte hai aur wahi humara algorithm khelata hai.
+
+
