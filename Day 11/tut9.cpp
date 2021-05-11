@@ -1,7 +1,14 @@
 #include <iostream>
 using namespace std;
 
+// Break and Continue
+
 int main() {
-	cout << "This is tutorial 9";
+	for(int i = 0; i < 100; i++) {
+		if (i == 8) {
+			break;
+		}
+		cout << i << endl;
+	}
 	return 0;
 }
