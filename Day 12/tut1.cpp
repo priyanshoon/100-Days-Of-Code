@@ -32,14 +32,19 @@ int main() {
 	// }
 
 	// Reversing the string
-	
+
 	string str;
 	cin >> str;
 	string strReverse;
-	for(int i = str.size() -1; i >= 0; --i) {
+	for(int i = str.size() - 1; i >= 0; --i) {
 		strReverse.push_back(str[i]);
-	} 
-	cout << strReverse << endl;
+	}
+
+	if(str == strReverse) {
+		cout << "The string is palindrome!" << endl;
+	} else {
+		cout << "The string is not palindrome!" << endl;
+	}
 
 	return 0;
 }
